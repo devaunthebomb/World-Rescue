@@ -1,0 +1,115 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.header{
+  text-align: center;
+  color: #005ce6;
+}
+
+.mini-header{
+  text-align: center;
+  color: #297373;
+}
+
+.font-link{
+  font-family: 'Didact Gothic';
+}
+
+.home-font-link{
+  font-family: 'Didact Gothic';
+  font-size: 25px;
+}
+
+
+#Name{
+  font-family: 'Kalam';
+
+}
+
+.photo{
+  height: 200px;
+  width: 200px;
+}
+
+#Question_Image{
+  height: 300px;
+  width: 300px;
+  float: right;
+}
+
+#Mission_Image{
+  float: left;
+  width: 400px;
+  height: 300px;
+  position:absolute; bottom: -60px; 
+}
+#h3{
+  position: absolute; bottom: 215px; right: 21px;
+}
+
+
+.tac{
+  text-align: center;
+}
+
+.tal{
+  text-align: left;
+}
+
+.tar{
+  text-align: right;
+}
+
+.nav-link{
+  color: #D5DFE5;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.myStyle{
+        background-Image: url('https://www.pixelstalk.net/wp-content/uploads/images1/Iceberg-backgrounds.jpg');
+        height:150vh;
+        width: auto;
+        /* margin-top:-70px; */
+        background-size: 'cover';
+        background-repeat: 'no-repeat'
+      };
+
+.newPos{
+  position: relative;
+  nav-left: 450px;
+};
