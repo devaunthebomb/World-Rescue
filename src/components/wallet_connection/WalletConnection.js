@@ -48,7 +48,7 @@ const Wallet = (props) => {
   };
   return (
     <div className="Minter">
-      <button id="walletButton" onClick={connectWalletPressed}>
+      <button class="walletButton" onClick={connectWalletPressed}>
         {walletAddress.length > 0 ? (
           "Connected: " +
           String(walletAddress).substring(0, 6) +

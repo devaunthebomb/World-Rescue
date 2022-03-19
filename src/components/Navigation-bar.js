@@ -25,9 +25,6 @@ function Navigation(){
                     Contact
                   </NavLink>
                 </li>
-                <li>
-                  <Wallet></Wallet>
-                </li>
               </ul>
             </div>
           </div>
