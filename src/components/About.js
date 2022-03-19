@@ -14,8 +14,8 @@ function About() {
             <p class='tac font-link'> <strong> Phase 3: Create the animation of the main character and enemies </strong></p>
             <p class='tac font-link'> <strong> Phase 3: Level Design of at least 1 level </strong></p>
 
-            <h1 class="header"> About the Developers </h1>
-            <p class="tac font-link"> Both of the devs on "World Rescue" are highschool students have participated in the non-profit TXT's program SEALS which teaches young boys of color how to code blockchain and crypto games.</p>
+            {/* <h1 class="header"> About the Developers </h1>
+            <p class="tac font-link"> Both of the devs on "World Rescue" are highschool students have participated in the non-profit TXT's program SEALS which teaches young boys of color how to code blockchain and crypto games.</p> */}
         </div>
 
 

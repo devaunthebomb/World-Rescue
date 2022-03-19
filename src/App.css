@@ -54,22 +54,21 @@
   width: 200px;
 }
 
-#Question_Image{
+#Q_Image{
   height: 300px;
   width: 300px;
-  float: right;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-#Mission_Image{
-  float: left;
-  width: 400px;
+#M_Image{
   height: 300px;
-  position:absolute; bottom: -60px; 
+  width: 300px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
-#h3{
-  position: absolute; bottom: 215px; right: 21px;
-}
-
 
 .tac{
   text-align: center;
