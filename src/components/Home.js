@@ -19,6 +19,7 @@ function Home() {
            <p className='font-link'> The purpose for our game was to bring more attention towards the effects of global warming and its effects on our planet. We also want to bring to light the effect it has had on the animals that live in those regions and how they suffer from losing their homes  </p>
         </div>
        </div>
+       <h1></h1>
        <div className='metaMask'>
          <h3 className='mini-header'> Connect Your MetaMask Wallet Now! </h3>
          <p className='font-link'> To access our token and NFTS that you earn during the game, connect your existing MetaMask account or download it to make a new account if you haven't already! </p>
