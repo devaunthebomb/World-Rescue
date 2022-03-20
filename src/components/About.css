@@ -1,0 +1,36 @@
+.container-about{
+    padding: 4%;
+}
+
+.about{
+    background-color: rgba( 0, 255, 255, 0.2);
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.roadmap{
+    background-color: rgba( 0, 255, 255, 0.2);
+    margin-top: 4%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.font-link{
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 25px;
+    color: #4478fa;
+}
+
+.mini-header{
+    text-align: center;
+    color: #715AFF;
+}
+
+.roadmap-image{
+    height: 200px;
+    width: 600px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}

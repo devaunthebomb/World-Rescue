@@ -1,0 +1,62 @@
+.container-home{
+    /* background-color: aqua; */
+    padding: 4%;
+}
+
+
+.mini-header{
+    text-align: center;
+    color: #715AFF;
+  }
+
+.section-header{
+    text-align: center;
+    color: #102E4A;
+}
+
+  .font-link{
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 25px;
+    color: #4478fa;
+  }
+
+.mission-content{
+    width: 60%;
+    margin-top: 2%;
+}
+
+.call-to-action{
+      background-color: rgba( 0, 255, 255, 0.2);
+      padding: 2%;
+      border-radius: 10px;
+  }
+
+.mission{
+    background-color: rgba( 0, 255, 255, 0.2);
+    margin-top: 4%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.metaMask{
+    background-color: rgba( 0, 255, 255, 0.2);
+    padding: 2%;
+    margin-top: 4%;
+    border-radius: 10px;
+}
+
+.test{
+  /* background-color: red; */
+  display: inline-block;
+  float: right;
+  position: relative; left: 300px;
+}
+
+.images{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  float: right;
+
+}
+

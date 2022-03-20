@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-Image: url('https://wallpaperaccess.com/full/2668138.jpg');
+      height:auto;
+        width: auto;
+        /* margin-top:-70px; */
+        background-size: 'cover';
+        background-repeat: 'no-repeat'
 }
 
 code {

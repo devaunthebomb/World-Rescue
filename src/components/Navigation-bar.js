@@ -1,14 +1,15 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
-import Wallet from './wallet_connection/WalletConnection';
-
 
 function Navigation(){
     return(
-        <div className={"navigation"}>
-        <nav className="navbar navbar-expand navbar-red bg-info newPos" >
-          <div className="container " class="newPos" >
-            <div>
+        <div className="navigation">
+        <nav className="navbar navbar-expand bg-purple" >
+          <div className="container "  >
+            <NavLink className="navbar-brand" to="/">
+              <h1> World Rescue </h1>
+            </NavLink>
+            <div className='navigation-buttons'>
               <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
                   <NavLink className="nav-link" class="newPos"to="/">

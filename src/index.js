@@ -18,6 +18,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+  <App/>
    <Router>
     <Navigation class="newPos"/>   
     <Routes>

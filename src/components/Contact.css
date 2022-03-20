@@ -1,0 +1,50 @@
+.container-contact{
+    padding: 4%;
+}
+
+.developers{
+    background-color: rgba( 0, 255, 255, 0.2);
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.info{
+    background-color: rgba( 0, 255, 255, 0.2);
+    margin-top: 4%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.mini-header{
+    text-align: center;
+    color: #7392B7;
+}
+
+.section-header{
+    color: #759EB8;
+}
+
+.font-link{
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 25px;
+    color: #cbd4dd;
+}
+
+
+.dev-image{
+    height: 300px;
+    width: 300px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.github-image{
+    height: 100px;
+}
+
+.linkedin-image{
+    height: 100px;
+    float: right;
+}

@@ -26,23 +26,21 @@
 }
 .header{
   text-align: center;
-  color: #005ce6;
-}
-
-.mini-header{
-  text-align: center;
-  color: #297373;
+  color: #715AFF;
 }
 
 .font-link{
-  font-family: 'Didact Gothic';
+  font-family: 'Gill Sans', sans-serif;
+  color: #4478fa;
+  
 }
 
-.home-font-link{
-  font-family: 'Didact Gothic';
-  font-size: 25px;
-}
 
+
+
+.navigation-buttons{
+  float: right;
+}
 
 .walletButton{
   border-radius: 10px;
@@ -53,17 +51,8 @@
   margin-right: auto;
 }
 
-
-
-#Q_Image{
-  height: 300px;
-  width: 300px;
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #M_Image{
+  border-radius: 10px;
   height: 300px;
   width: 450px;
   display:block;
@@ -106,17 +95,3 @@
     transform: rotate(360deg);
   }
 }
-
-.myStyle{
-        background-Image: url('https://www.pixelstalk.net/wp-content/uploads/images1/Iceberg-backgrounds.jpg');
-        height:150vh;
-        width: auto;
-        /* margin-top:-70px; */
-        background-size: 'cover';
-        background-repeat: 'no-repeat'
-      };
-
-.newPos{
-  position: relative;
-  nav-left: 450px;
-};
