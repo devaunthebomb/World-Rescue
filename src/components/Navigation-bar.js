@@ -7,7 +7,7 @@ function Navigation(){
         <nav className="navbar navbar-expand bg-purple" >
           <div className="container "  >
             <NavLink className="navbar-brand" to="/">
-              <h1> World Rescue </h1>
+              <h1 style={{color: "#48cae4"}}> World Rescue </h1>
             </NavLink>
             <div className='navigation-buttons'>
               <ul className="navbar-nav ml-auto">

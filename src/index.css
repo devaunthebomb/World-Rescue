@@ -5,7 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-Image: url('https://wallpaperaccess.com/full/2668138.jpg');
+  /* background-Image: url('https://wallpaperaccess.com/full/2668138.jpg'); */
+  background-color: #023e8a;
       height:auto;
         width: auto;
         /* margin-top:-70px; */

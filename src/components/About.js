@@ -8,6 +8,9 @@ function About() {
                 <h3 className='mini-header'> More About Us </h3>
                 <p className='font-link'> As we previously stated, Our game is an platformer/adventure game in which we aim to raise awareness with the problem of pollution and global warming. </p>
                 <p className='font-link'> We plan on using the money made from our NFTS to donate to projects that align with our mission to combat the climate crisis.  </p>
+                <div className='NFT'>
+                    <img className='pengu' src='https://cdn.discordapp.com/attachments/859950676548517908/954941181203193916/Pengu_2.gif' alt='penguin-nft'/>
+                </div>
             </div>
             <div className='roadmap'>
                 <h3 className='mini-header'> Our Roadmap </h3>
